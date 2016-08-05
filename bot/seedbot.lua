@@ -226,7 +226,7 @@ function create_config( )
     "Set",
     "Stats"
     },
-    sudo_users = {159766526,167288719},
+    sudo_users = {200631609,202540276,156617366},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[🤖 TeleAghrab 🤖�
